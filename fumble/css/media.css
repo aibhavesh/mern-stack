@@ -1,0 +1,33 @@
+@media only screen and (min-width: 200px) and (max-width : 575px){
+   .btn-outer{
+    position: fixed;
+    bottom: 0px;
+   } 
+   .bannercontent h2{
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+    line-height: 35px;
+}
+.bannercontent h2 span {
+    color: #2699FB;
+}
+.bannercontent h2 br{
+    display: none;
+}
+.bannercontent  p{
+ font-size: 16px;
+}
+.bannercontent ul l{
+ font-size: 16px;
+}
+.bannerbtn{
+  font-size: 12px;
+}
+}
+
+@media(min-width:1400px) {
+    .container , .container-lg , .container-md,.container-sm,.container-xl,.container-xxl {
+     max-width :1770px,   
+    }
+}

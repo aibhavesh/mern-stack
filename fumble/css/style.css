@@ -1,0 +1,54 @@
+*{
+    font-family: "Inter",sans-serif;
+}
+header{
+    position: fixed;
+}
+.bannercontent span{
+    font-weight: 700;
+    font-size: 55px;
+}
+.bannercontent span span {
+    color: #2699FB;
+    display: inline;
+}
+.bannercontent  p{
+    line-height: 45px;
+    font-size: 25px;
+}
+.bannercontent ul{
+    list-style: none;
+}
+.bannercontent ul li{
+    font-size: 22px;
+}
+.bannercontent{
+    background-color: rgb(245, 230, 230 ,250);
+    border-radius: 20px;    
+}
+.bannercontent ul li i {
+    color: #2699FB;
+}
+.bannerbtn button{
+    background : linear-gradient( #2699FB,#e98484);
+    text-shadow: 10px;
+    color: aliceblue;
+    font-size: 16px;
+
+}
+.form{   
+    padding: 40px; 
+    border-radius: 40px;
+}
+.form h3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+.form button{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+}
+.part2{
+    border-radius: 50px;
+}

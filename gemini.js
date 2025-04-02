@@ -8,5 +8,3 @@ const prompt = "Explain how AI works";
 const result = await model.generateContent(prompt);
 console.log(result.response.text());
 
-
-/// it works in local

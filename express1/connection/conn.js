@@ -1,0 +1,3 @@
+let mongoose = require("mongoose");
+mongoose.connect("mongodb://0.0.0.0:27017/bhavesh");
+module.exports = mongoose;
